@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/HarishB301/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/HarishB301/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/HarishB301/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
