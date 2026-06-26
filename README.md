@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarishB301/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarishB301/LeetCode/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/HarishB301/LeetCode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HarishB301/LeetCode/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarishB301/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
