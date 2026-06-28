@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/HarishB301/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/HarishB301/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HarishB301/LeetCode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/HarishB301/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HarishB301/LeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
