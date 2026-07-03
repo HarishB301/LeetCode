@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/HarishB301/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarishB301/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarishB301/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HarishB301/LeetCode/tree/master/0043-multiply-strings) |
+| [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 ## Backtracking
 |  |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 <!---LeetCode Topics End-->
