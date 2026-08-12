@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishB301/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/HarishB301/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarishB301/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/HarishB301/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/HarishB301/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarishB301/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
