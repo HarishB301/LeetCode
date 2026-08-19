@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/HarishB301/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/HarishB301/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarishB301/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarishB301/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarishB301/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/HarishB301/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarishB301/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/HarishB301/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/HarishB301/LeetCode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/HarishB301/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/HarishB301/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/HarishB301/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Tree
