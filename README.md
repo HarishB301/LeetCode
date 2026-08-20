@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/HarishB301/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/HarishB301/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/HarishB301/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HarishB301/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/HarishB301/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/HarishB301/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HarishB301/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -225,10 +227,19 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/HarishB301/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/HarishB301/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Stack
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/HarishB301/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/HarishB301/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
