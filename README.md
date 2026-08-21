@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/HarishB301/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/HarishB301/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0946-validate-stack-sequences](https://github.com/HarishB301/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/HarishB301/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/HarishB301/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/HarishB301/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 ## Backtracking
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/HarishB301/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/HarishB301/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## String Matching
 |  |
 | ------- |
