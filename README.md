@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/HarishB301/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/HarishB301/LeetCode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishB301/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/HarishB301/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/HarishB301/LeetCode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarishB301/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarishB301/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HarishB301/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/HarishB301/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/HarishB301/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 ## Backtracking
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0589-n-ary-tree-preorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/HarishB301/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
