@@ -7,13 +7,7 @@ class Solution {
             else if(str.peek()!=ch) str.push(ch);
             else str.pop();
         }
-        while(!str.isEmpty()){
-            Adj+=str.pop();
-        }
-        String string="";
-        for(int i=Adj.length()-1;i>=0;i--) string+=Adj.charAt(i);
-
-
-        return string;
+        for(char ch:str) Adj+=ch;
+        return Adj;
     }
 }
