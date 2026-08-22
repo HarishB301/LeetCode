@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/HarishB301/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/HarishB301/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarishB301/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/HarishB301/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarishB301/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishB301/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/HarishB301/LeetCode/tree/master/0443-string-compression) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarishB301/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarishB301/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/HarishB301/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/HarishB301/LeetCode/tree/master/0394-decode-string) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/HarishB301/LeetCode/tree/master/0682-baseball-game) |
