@@ -15,30 +15,16 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        if(root==null) return 0;
-        List<List<Integer>> list =new ArrayList<>();
-        helper(list,root,new ArrayList<>());
-        int maxSum=0;
-        for(List<Integer> res:list){
-            String str="";
-            for(int num:res){
-                str=str+Integer.toString(num);
-            }
-            maxSum+=Integer.parseInt(str);
-        }
-        return maxSum;
+        int sum=0;
+        return helper(root,sum);
+        
     }
 
-    public void helper(List<List<Integer>> list,TreeNode root,List<Integer> res){
-        if(root==null) return;
-        res.add(root.val);
-        if(root.left==null && root.right==null){
-            list.add(new ArrayList<>(res));
-        }else{
-            helper(list,root.left,res);
-            helper(list,root.right,res);
-        }
-        res.remove(res.size()-1);
+    public int helper(TreeNode root,int sum){
+        if(root==null) return 0;
+        sum=sum*10+root.val;
+        if(root.left==null && root.right==null) return sum;
+        return helper(root.left,sum)+helper(root.right,sum);
         
         
     }
