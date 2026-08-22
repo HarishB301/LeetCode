@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0589-n-ary-tree-preorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/HarishB301/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0589-n-ary-tree-preorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/HarishB301/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/HarishB301/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/HarishB301/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HarishB301/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Stack
 |  |
