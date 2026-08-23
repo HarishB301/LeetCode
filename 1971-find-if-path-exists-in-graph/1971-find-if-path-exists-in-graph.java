@@ -8,12 +8,12 @@ class Solution {
             list.get(edge[0]).add(edge[1]);
             list.get(edge[1]).add(edge[0]);
         }
-        bfs(s,visited,list,n);
+        bfs(s,visited,list,n,d);
         // for(int i=s;i<=d;i++) if(visited[i]==false) return false;
         return visited[d];
     }
 
-    public void bfs(int s,boolean[] visited,List<List<Integer>> list ,int n){
+    public void bfs(int s,boolean[] visited,List<List<Integer>> list ,int n,int d){
         visited[s]=true;
         Queue<Integer> q = new LinkedList<>();
         q.offer(s);
@@ -23,6 +23,7 @@ class Solution {
                 if(!visited[ele]){
                     visited[ele]=true;
                     q.offer(ele);
+                    if(s==d) return;
                 }
             }
         }
