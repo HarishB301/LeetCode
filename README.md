@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarishB301/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0617-merge-two-binary-trees](https://github.com/HarishB301/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -288,9 +290,11 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/HarishB301/LeetCode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/HarishB301/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
