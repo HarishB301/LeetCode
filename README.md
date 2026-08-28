@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/HarishB301/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarishB301/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0590-n-ary-tree-postorder-traversal](https://github.com/HarishB301/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/HarishB301/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/HarishB301/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HarishB301/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/HarishB301/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/HarishB301/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HarishB301/LeetCode/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Greedy
 |  |
 | ------- |
