@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishB301/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HarishB301/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/HarishB301/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarishB301/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/HarishB301/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HarishB301/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/HarishB301/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/HarishB301/LeetCode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/HarishB301/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/HarishB301/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
