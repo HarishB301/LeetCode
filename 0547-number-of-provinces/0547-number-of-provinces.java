@@ -5,12 +5,20 @@ class Solution {
         int count=0;
         for(int i=0;i<n;i++){
            if(!visited[i]){
-            bfs(i,adj,visited);
+            dfs(i,adj,visited);
             count++;
            }
         }
 
-        return count++;
+        return count;
+    }
+    public void dfs(int start,int[][] adj,boolean visited[]){
+        visited[start]=true;
+        for(int i=0;i<adj.length;i++){
+             if(!visited[i] && adj[start][i]==1){
+                dfs(i,adj,visited);
+             }
+        }
     }
 
     public void bfs(int start,int[][] adj,boolean visited[]){
