@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarishB301/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1192-critical-connections-in-a-network](https://github.com/HarishB301/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HarishB301/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/HarishB301/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/HarishB301/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HarishB301/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/HarishB301/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -380,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/HarishB301/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/HarishB301/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/HarishB301/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
