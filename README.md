@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/HarishB301/LeetCode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarishB301/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/HarishB301/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HarishB301/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarishB301/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/HarishB301/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HarishB301/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HarishB301/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/HarishB301/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
+| [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HarishB301/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishB301/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
