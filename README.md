@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/HarishB301/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarishB301/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/HarishB301/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0388-longest-absolute-file-path](https://github.com/HarishB301/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/HarishB301/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0437-path-sum-iii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/HarishB301/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarishB301/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/HarishB301/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/HarishB301/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/HarishB301/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/HarishB301/LeetCode/tree/master/0547-number-of-provinces) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/HarishB301/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarishB301/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HarishB301/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/HarishB301/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HarishB301/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/HarishB301/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarishB301/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/HarishB301/LeetCode/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
