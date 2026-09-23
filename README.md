@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/HarishB301/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/HarishB301/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/HarishB301/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/HarishB301/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/HarishB301/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/HarishB301/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/HarishB301/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/HarishB301/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/HarishB301/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/HarishB301/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/HarishB301/LeetCode/tree/master/1192-critical-connections-in-a-network) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/HarishB301/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarishB301/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/HarishB301/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/HarishB301/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HarishB301/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Directed Acyclic Graph
 |  |
@@ -412,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/HarishB301/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/HarishB301/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/HarishB301/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
