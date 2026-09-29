@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HarishB301/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/HarishB301/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarishB301/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HarishB301/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/HarishB301/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0993-cousins-in-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HarishB301/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HarishB301/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HarishB301/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
