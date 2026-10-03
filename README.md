@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/HarishB301/LeetCode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/HarishB301/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HarishB301/LeetCode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/HarishB301/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/HarishB301/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/HarishB301/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/HarishB301/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/HarishB301/LeetCode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/HarishB301/LeetCode/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarishB301/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
