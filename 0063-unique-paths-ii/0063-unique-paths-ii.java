@@ -3,11 +3,23 @@ class Solution {
         int m=Grid.length;
         int n=Grid[0].length;
         int[][] dp=new int[m+1][n+1];
-        
-        for(int[] arr:dp){
-            Arrays.fill(arr,-1);
+        for(int row=0;row<m;row++){
+            for(int col=0;col<n;col++){
+                if(Grid[row][col]==1) dp[row][col]=0;
+                else if(row==0 && col==0) dp[row][col]=1;
+                else{
+                    int fromLeft = (col > 0) ? dp[row][col - 1] : 0;
+                    int fromUp = (row > 0) ? dp[row - 1][col] : 0;
+                    dp[row][col] = fromLeft + fromUp;
+                }
+            }
         }
-        return matrix(0,0,m,n,dp,Grid);
+        
+        // for(int[] arr:dp){
+        //     Arrays.fill(arr,-1);
+        // }
+        // return matrix(0,0,m,n,dp,Grid);
+        return dp[m-1][n-1];
     }
     public int matrix(int row,int col,int m,int n,int[][] dp,int[][] Grid){
         if(row<0 || row>=m || col<0 || col>=n) return 0;
