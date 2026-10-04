@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/HarishB301/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HarishB301/LeetCode/tree/master/0342-power-of-four) |
+| [0980-unique-paths-iii](https://github.com/HarishB301/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/HarishB301/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0980-unique-paths-iii](https://github.com/HarishB301/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/HarishB301/LeetCode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/HarishB301/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/HarishB301/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/HarishB301/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/HarishB301/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarishB301/LeetCode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
+| [0980-unique-paths-iii](https://github.com/HarishB301/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/HarishB301/LeetCode/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/HarishB301/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -485,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarishB301/LeetCode/tree/master/0062-unique-paths) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/HarishB301/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
