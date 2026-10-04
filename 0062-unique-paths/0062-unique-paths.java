@@ -1,10 +1,17 @@
 class Solution {
     public int uniquePaths(int m, int n) {
         int[][] dp=new int[m+1][n+1];
-        for(int[] arr:dp){
-            Arrays.fill(arr,-1);
+        for(int row=0;row<m;row++){
+            for(int col=0;col<n;col++){
+                if(row==0 || col==0) dp[row][col]=1;
+                else dp[row][col]=dp[row][col-1]+dp[row-1][col];
+            }
         }
-        return matrix(0,0,m,n,dp);
+        return dp[m-1][n-1];
+        // for(int[] arr:dp){
+        //     Arrays.fill(arr,-1);
+        // }
+        // return matrix(0,0,m,n,dp);
     }
     public int matrix(int row,int col,int m,int n,int[][] dp){
         if(row<0 || row>=m || col<0 || col>=n) return 0;
