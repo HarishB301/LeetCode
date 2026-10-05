@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/HarishB301/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarishB301/LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/HarishB301/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/HarishB301/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/HarishB301/LeetCode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/HarishB301/LeetCode/tree/master/0198-house-robber) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/HarishB301/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/HarishB301/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/HarishB301/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HarishB301/LeetCode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
