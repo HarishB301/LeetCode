@@ -2,7 +2,7 @@ class Solution {
     public int minimumTotal(List<List<Integer>> tri) {
         int m=tri.size();
         int dp[][]=new int[m][m];
-        for(int arr[]:dp) Arrays.fill(arr,Integer.MIN_VALUE);
+        for(int arr[]:dp) Arrays.fill(arr,Integer.MAX_VALUE);
         return min(0,0,tri,dp,m);
         // for(int i=0;i<m;i++){
         //     for(int j=0;j<=i;j++){
@@ -24,15 +24,11 @@ class Solution {
         // return ans;
        
     }
-   public int min(int r, int c, List<List<Integer>> tri, int[][] dp, int m) {
-        if (r == m - 1) return tri.get(m - 1).get(c);
-        
-        
-        if (dp[r][c] != Integer.MIN_VALUE) return dp[r][c];
-        
-        int down = min(r + 1, c, tri, dp, m);
-        int dia = min(r + 1, c + 1, tri, dp, m);
-        
-        return dp[r][c] = (tri.get(r).get(c) + Math.min(down, dia));
+    public int min(int r,int c,List<List<Integer>> tri,int[][] dp,int m){
+        if(r==m-1) return tri.get(m-1).get(c);
+        if(dp[r][c]!=Integer.MAX_VALUE) return dp[r][c];
+        int down=min(r+1,c,tri,dp,m);
+        int dia=min(r+1,c+1,tri,dp,m);
+        return dp[r][c]=(tri.get(r).get(c)+Math.min(down,dia));
     }
 }
