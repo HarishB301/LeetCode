@@ -19,7 +19,7 @@ class Solution {
         //     }
         // }
         // return dp[m-1][n-1];
-        return min(m,n,0,0,grid,dp);
+        return min1(m-1,n-1,grid,dp);
     }
     public int min(int m,int n,int row,int col,int[][] grid,int[][] dp){
         if(col>=n || row>=m) return Integer.MAX_VALUE;
@@ -27,6 +27,14 @@ class Solution {
         if(dp[row][col]!=-1) return dp[row][col];
         int left=min(m,n,row+1,col,grid,dp);
         int right=min(m,n,row,col+1,grid,dp);
+        return dp[row][col]=grid[row][col]+Math.min(left,right);
+    }
+     public int min1(int row,int col,int[][] grid,int[][] dp){
+        if(col<0 || row<0) return Integer.MAX_VALUE;
+        if(row==0 && col==0) return grid[0][0];
+        if(dp[row][col]!=-1) return dp[row][col];
+        int left=min1(row-1,col,grid,dp);
+        int right=min1(row,col-1,grid,dp);
         return dp[row][col]=grid[row][col]+Math.min(left,right);
     }
 }
