@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/HarishB301/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarishB301/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/HarishB301/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarishB301/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarishB301/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HarishB301/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0946-validate-stack-sequences](https://github.com/HarishB301/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0999-available-captures-for-rook](https://github.com/HarishB301/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarishB301/LeetCode/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -521,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/HarishB301/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
