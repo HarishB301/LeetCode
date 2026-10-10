@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/HarishB301/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/HarishB301/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/HarishB301/LeetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/HarishB301/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/HarishB301/LeetCode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HarishB301/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/HarishB301/LeetCode/tree/master/1463-cherry-pickup-ii) |
