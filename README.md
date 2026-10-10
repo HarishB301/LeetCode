@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/HarishB301/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/HarishB301/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/HarishB301/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/HarishB301/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/HarishB301/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/HarishB301/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/HarishB301/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HarishB301/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/HarishB301/LeetCode/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/HarishB301/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/HarishB301/LeetCode/tree/master/0542-01-matrix) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/HarishB301/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarishB301/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/HarishB301/LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/HarishB301/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/HarishB301/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HarishB301/LeetCode/tree/master/0695-max-area-of-island) |
