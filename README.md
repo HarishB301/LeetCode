@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/HarishB301/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HarishB301/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarishB301/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarishB301/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HarishB301/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HarishB301/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/HarishB301/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/HarishB301/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HarishB301/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HarishB301/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
 | ------- |
