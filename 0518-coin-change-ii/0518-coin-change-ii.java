@@ -2,8 +2,27 @@ class Solution {
     public int change(int amount, int[] coins) {
         int n=coins.length;
         int[][] dp=new int[n][amount+1];
-        for(int[] arr:dp) Arrays.fill(arr,-1);
-        return fun(n-1,coins,amount,dp);
+        // for(int[] arr:dp) Arrays.fill(arr,-1);
+        // return fun(n-1,coins,amount,dp);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<=amount;j++){
+                if(j==0) dp[i][j]=1;
+                else if(i==0){
+                    if(j%coins[0]==0){
+                        dp[i][j]=1;
+                    }else dp[i][j]=0;
+                }else{
+                    int left=dp[i-1][j];
+                    int right=0;
+                    if(j>=coins[i]){
+                        right=dp[i][j-coins[i]];
+                        
+                    }
+                   dp[i][j]=left+right;
+                }
+            }
+        }
+        return dp[n-1][amount];
     }
     public int fun(int n,int[] coins,int amount,int[][] dp){
         if(amount==0) return 1;
