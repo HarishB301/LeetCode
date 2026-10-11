@@ -4,8 +4,8 @@ class Solution {
         int[] dp=new int[amount+1];
         // for(int[] arr:dp) Arrays.fill(arr,-1);
         // return fun(n-1,coins,amount,dp);
+        int[] dp1=new int[amount+1];
         for(int i=0;i<n;i++){
-            int[] dp1=new int[amount+1];
             for(int j=0;j<=amount;j++){
                 if(j==0) dp1[j]=1;
                 else if(i==0){
