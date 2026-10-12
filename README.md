@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/HarishB301/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarishB301/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/HarishB301/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/HarishB301/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarishB301/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarishB301/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/HarishB301/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/HarishB301/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HarishB301/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/HarishB301/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarishB301/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -553,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0322-coin-change](https://github.com/HarishB301/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/HarishB301/LeetCode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/HarishB301/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
