@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishB301/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HarishB301/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/HarishB301/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarishB301/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/HarishB301/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/HarishB301/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/HarishB301/LeetCode/tree/master/0695-max-area-of-island) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/HarishB301/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/HarishB301/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/HarishB301/LeetCode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HarishB301/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Simulation
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/HarishB301/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/HarishB301/LeetCode/tree/master/0542-01-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/HarishB301/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HarishB301/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -559,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/HarishB301/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
