@@ -11,8 +11,8 @@ class Solution {
        for(int i=0;i<=n;i++){
         for(int j=0;j<=m;j++){
             if(i==0||j==0){
-                if(i==0) dp1[j]=j+1;
-                if(j==0) dp1[j]=i+1;
+                if(i==0) dp1[j]=j;
+                if(j==0) dp1[j]=i;
             }
             else if(s.charAt(i-1)==t.charAt(j-1)){
                 dp1[j]=dp[j-1];
@@ -25,7 +25,7 @@ class Solution {
         }
         dp=Arrays.copyOf(dp1,m+1);
        }
-    return dp[m]-1;
+    return dp[m];
     }
     // public int dp(String s,int n,String t, int m,int[][] dp){
     //     if(m<0) return n+1;
