@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarishB301/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarishB301/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/HarishB301/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/HarishB301/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HarishB301/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HarishB301/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/HarishB301/LeetCode/tree/master/0125-valid-palindrome) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HarishB301/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/HarishB301/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarishB301/LeetCode/tree/master/0326-power-of-three) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HarishB301/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HarishB301/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/HarishB301/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HarishB301/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HarishB301/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HarishB301/LeetCode/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/HarishB301/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Biconnected Component
