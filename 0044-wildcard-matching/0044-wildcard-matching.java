@@ -1,9 +1,26 @@
 class Solution {
-    public boolean isMatch(String s, String p) {
+    public boolean isMatch(String p, String s) {
         int n=s.length();
         int m=p.length();
         Boolean[][] dp=new Boolean[n+1][m+1];
-        return fun(p,m-1,s,n-1,dp);
+        return fun(s,n-1,p,m-1,dp);
+        // for(int i=0;i<=n;i++){
+        //     for(int j=0;j<=m;j++){
+        //         if(i==0 && j==0) dp[i][j]=true;
+        //         else if(i==0 && j>0) dp[i][j]=false;
+        //         else if(i>0 && j==0){
+        //             for(int k=1;k<=i;k++){
+        //                 if(s.charAt(k-1)!='*') dp[i][j]=false;
+        //             }
+        //             dp[i][j]=true;
+        //         }else if(s.charAt(i-1)=='*'){
+        //             dp[i][j]=dp[i-1][j] || dp[i][j-1];
+        //         }else if(s.charAt(i-1)==p.charAt(j-1) || s.charAt(i-1)=='?'){
+        //             dp[i][j]=dp[i-1][j-1];
+        //         }else dp[i][j]=false;
+        //     }
+        // }
+        // return dp[n][m];
     }
 
     public boolean fun(String s,int i,String p,int j,Boolean[][] dp){
@@ -17,13 +34,13 @@ class Solution {
             }
             return true;
         }
-        if(dp[j][i]!=null) return dp[j][i];
+        if(dp[i][j]!=null) return dp[i][j];
         if(s.charAt(i)=='*'){
-            return dp[j][i]=fun(s,i,p,j-1,dp) || fun(s,i-1,p,j,dp);
+            return dp[i][j]=fun(s,i,p,j-1,dp) || fun(s,i-1,p,j,dp);
         }
         if(s.charAt(i)==p.charAt(j) || s.charAt(i)=='?'){
-            return dp[j][i]=fun(s,i-1,p,j-1,dp);
+            return dp[i][j]=fun(s,i-1,p,j-1,dp);
         }
-        return dp[j][i]=false;
+        return dp[i][j]=false;
     }
 }
