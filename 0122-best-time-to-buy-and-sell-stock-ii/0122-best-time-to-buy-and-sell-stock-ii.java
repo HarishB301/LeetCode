@@ -5,13 +5,13 @@ class Solution {
         // for(int[] arr:dp) Arrays.fill(arr,-1);
         // return fun(prices,0,1,dp);
 
-        dp[0][0]=0;
-        dp[0][1]=-prices[0];
-        for(int i=1;i<n;i++){
-            dp[i][1]=Math.max(dp[i-1][0]-prices[i],dp[i-1][1]);
-            dp[i][0]=Math.max(dp[i-1][1]+prices[i],dp[i-1][0]);         
+        dp[n][0]=0;
+        dp[n][1]=0;
+        for(int i=n-1;i>=0;i--){
+            dp[i][1]=Math.max(dp[i+1][0]-prices[i],dp[i+1][1]);
+            dp[i][0]=Math.max(dp[i+1][1]+prices[i],dp[i+1][0]);         
         }
-        return dp[n-1][0];
+        return dp[0][1];
     }
     int fun(int[] prices,int ind,int buy,int[][] dp){
         if(ind==prices.length) return 0;
