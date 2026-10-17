@@ -9,9 +9,9 @@ class Solution {
         if(ind==prices.length) return 0;
         if(dp[ind][buy]!=-1) return dp[ind][buy];
         if(buy==1){
-            return dp[ind][1]=Math.max(fun(prices,ind+1,0,dp)-prices[ind],fun(prices,ind+1,1,dp));
+            return dp[ind][buy]=Math.max(fun(prices,ind+1,0,dp)-prices[ind],fun(prices,ind+1,1,dp));
         }else{
-            return dp[ind][0]=Math.max(fun(prices,ind+1,1,dp)+prices[ind],fun(prices,ind+1,0,dp));
+            return dp[ind][buy]=Math.max(fun(prices,ind+1,1,dp)+prices[ind],fun(prices,ind+1,0,dp));
         }
     }
 }
