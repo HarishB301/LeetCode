@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarishB301/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/HarishB301/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HarishB301/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/HarishB301/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## String
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/HarishB301/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/HarishB301/LeetCode/tree/master/0827-making-a-large-island) |
+| [0845-longest-mountain-in-array](https://github.com/HarishB301/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/HarishB301/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/HarishB301/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarishB301/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarishB301/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/HarishB301/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/HarishB301/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HarishB301/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -612,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HarishB301/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/HarishB301/LeetCode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
