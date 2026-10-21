@@ -6,17 +6,17 @@ class Solution {
         arr[n+1]=1;
         for(int i=0;i<n;i++) arr[i+1]=nums[i];
         int[][] dp=new int[n+2][n+2];
-        for(int a[]:dp) Arrays.fill(a,-1);
-        return fun(1,n,arr,dp);
+         for(int i=n;i>=1;i--){
+            for(int j=1;j<=n;j++){
+                int maxCost=Integer.MIN_VALUE;
+                for(int cut=i;cut<=j;cut++){
+                    int cost=(arr[i-1]*arr[cut]*arr[j+1])+dp[i][cut-1]+dp[cut+1][j];
+                    maxCost=Math.max(maxCost,cost);
+                dp[i][j]=maxCost;
+                }
+            }
+         }
+         return dp[1][n];
     }
-    int fun(int i,int j,int[] arr,int[][] dp){
-        if(i>j) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        int maxCost=Integer.MIN_VALUE;
-        for(int cut=i;cut<=j;cut++){
-              int cost=(arr[i-1]*arr[cut]*arr[j+1])+fun(i,cut-1,arr,dp)+fun(cut+1,j,arr,dp);
-              maxCost=Math.max(maxCost,cost);
-        }
-        return dp[i][j]=maxCost;
-    }
+    
 }
