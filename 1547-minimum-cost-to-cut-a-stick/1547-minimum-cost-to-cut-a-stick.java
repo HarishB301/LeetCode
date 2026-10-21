@@ -7,17 +7,19 @@ class Solution {
         Arrays.sort(cuts);
         for(int i=0;i<m;i++) arr[i+1]=cuts[i];
         int[][] dp=new int[m+2][m+2];
-        for(int a[]:dp) Arrays.fill(a,-1);
-        return fun(1,m,arr,dp);
-    }
-    public int fun(int i,int j,int[] arr,int[][] dp){
-        if(i>j) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-         int minCost=Integer.MAX_VALUE;
-        for(int cut=i;cut<=j;cut++){
-            int cost=(arr[j+1]-arr[i-1])+fun(i,cut-1,arr,dp)+fun(cut+1,j,arr,dp);
-            minCost=Math.min(minCost,cost);
+        for(int i=m;i>=1;i--){
+            for(int j=i;j<=m;j++){
+                  int minCost=Integer.MAX_VALUE;
+                    for(int cut=i;cut<=j;cut++){
+                        int cost=(arr[j+1]-arr[i-1])+dp[i][cut-1]+dp[cut+1][j];
+                        minCost=Math.min(minCost,cost);
+                    }
+                    dp[i][j]=minCost;
+            }
         }
-        return dp[i][j]=minCost;
+
+        return dp[1][m];
+        
     }
+  
 }
