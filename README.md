@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/HarishB301/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/HarishB301/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/HarishB301/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HarishB301/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HarishB301/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/HarishB301/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/HarishB301/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/HarishB301/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/HarishB301/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/HarishB301/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HarishB301/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarishB301/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/HarishB301/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/HarishB301/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HarishB301/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/HarishB301/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/HarishB301/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HarishB301/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/HarishB301/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
