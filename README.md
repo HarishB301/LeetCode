@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/HarishB301/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/HarishB301/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarishB301/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/HarishB301/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/HarishB301/LeetCode/tree/master/0567-permutation-in-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarishB301/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarishB301/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/HarishB301/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarishB301/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarishB301/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HarishB301/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HarishB301/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HarishB301/LeetCode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/HarishB301/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HarishB301/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/HarishB301/LeetCode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/HarishB301/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/HarishB301/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HarishB301/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
