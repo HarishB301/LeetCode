@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0184-department-highest-salary](https://github.com/HarishB301/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/HarishB301/LeetCode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/HarishB301/LeetCode/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/HarishB301/LeetCode/tree/master/0595-big-countries) |
 ## Matrix
 |  |
 | ------- |
