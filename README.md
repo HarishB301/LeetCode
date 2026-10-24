@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/HarishB301/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarishB301/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarishB301/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarishB301/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HarishB301/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HarishB301/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarishB301/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/HarishB301/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarishB301/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HarishB301/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarishB301/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
 | ------- |
