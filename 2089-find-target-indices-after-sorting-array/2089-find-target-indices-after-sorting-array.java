@@ -1,15 +1,43 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        int less=0,equal=0;
+        Arrays.sort(nums);
+        int first=lower(nums,target);
         List<Integer> list=new ArrayList<>();
-        for(int ele:nums){
-            if(ele<target) less++;
-            else if(ele==target) equal++;
+        if(first==-1) return list;
+        int last=upper(nums,target);
+        for(int i=first;i<=last;i++){
+            list.add(i);
         }
-        for(int i=0;i<equal;i++){
-            list.add(less+i);
-        }
-
         return list;
+
+    }
+
+    int lower(int[] arr,int k){
+                  int low=0,high=arr.length-1,ans=-1;
+                  while(low<=high){
+                      int mid=low+(high-low)/2;
+                      if(arr[mid]==k){
+                          ans=mid;
+                          high=mid-1;
+                      }else if(arr[mid]>k){
+                          high=mid-1;
+                      }else low=mid+1;
+            }
+         return ans;
+
+    }
+     int upper(int[] arr,int k){
+                  int low=0,high=arr.length-1,ans=-1;
+                  while(low<=high){
+                      int mid=low+(high-low)/2;
+                      if(arr[mid]==k){
+                          ans=mid;
+                          low=mid+1;
+                      }else if(arr[mid]>k){
+                          high=mid-1;
+                      }else low=mid+1;
+            }
+         return ans;
+
     }
 }
