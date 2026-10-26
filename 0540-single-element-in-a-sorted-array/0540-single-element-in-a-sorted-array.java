@@ -1,40 +1,20 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        for(int el:nums){
-            int first=lower(nums,el);
-            int last=upper(nums,el);
-            if(last==first) return nums[last];
-            else continue;
+        int n=nums.length;
+        if(n==1) return nums[0];
+        if(nums[0]!=nums[1]) return nums[0];
+        if(nums[n-1]!=nums[n-2]) return nums[n-1];
+        int low=1,high=n-2;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]!=nums[mid-1] && nums[mid]!=nums[mid+1]){
+                return nums[mid];
+            }
+
+            if((mid%2==1) && nums[mid-1]==nums[mid] || mid%2==0 && nums[mid]==nums[mid+1]){
+                low=mid+1;
+            }else high=mid-1;
         }
         return -1;
-        
-    }
-    int lower(int[] arr,int k){
-        int low=0,high=arr.length-1,ans=-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(arr[mid]==k){
-                ans=mid;
-                high=mid-1;
-            }else if(arr[mid]>k){
-                high=mid-1;
-            }else low=mid+1;
-        }
-        return ans;
-
-    }
-     int upper(int[] arr,int k){
-        int low=0,high=arr.length-1,ans=-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(arr[mid]==k){
-                ans=mid;
-                low=mid+1;
-            }else if(arr[mid]>k){
-                high=mid-1;
-            }else low=mid+1;
-        }
-        return ans;
-
     }
 }
