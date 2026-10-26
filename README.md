@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0610-triangle-judgement](https://github.com/HarishB301/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/HarishB301/LeetCode/tree/master/0619-biggest-single-number) |
 | [1795-rearrange-products-table](https://github.com/HarishB301/LeetCode/tree/master/1795-rearrange-products-table) |
+| [1907-count-salary-categories](https://github.com/HarishB301/LeetCode/tree/master/1907-count-salary-categories) |
 ## Matrix
 |  |
 | ------- |
