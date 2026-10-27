@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/HarishB301/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarishB301/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarishB301/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/HarishB301/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/HarishB301/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/HarishB301/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/HarishB301/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/HarishB301/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarishB301/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarishB301/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarishB301/LeetCode/tree/master/0704-binary-search) |
