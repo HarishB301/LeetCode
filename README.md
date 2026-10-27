@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarishB301/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2236-root-equals-sum-of-children](https://github.com/HarishB301/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0965-univalued-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/HarishB301/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HarishB301/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2236-root-equals-sum-of-children](https://github.com/HarishB301/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Stack
 |  |
 | ------- |
