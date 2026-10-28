@@ -1,8 +1,9 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        Arrays.sort(piles);
+        int max=0;
+        for(int ele:piles) max=Math.max(max,ele);
         int n=piles.length;
-        long high=(long)piles[n-1],low=1,ans=Integer.MAX_VALUE;
+        long high=(long)max,low=1,ans=Integer.MAX_VALUE;
         while(low<=high){
             long mid=low+(high-low)/2;
             long totalhrs=fun(piles,mid);
