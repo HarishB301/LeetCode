@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/HarishB301/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/HarishB301/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HarishB301/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/HarishB301/LeetCode/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/HarishB301/LeetCode/tree/master/0518-coin-change-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarishB301/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HarishB301/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarishB301/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/HarishB301/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarishB301/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarishB301/LeetCode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HarishB301/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/HarishB301/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HarishB301/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/HarishB301/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/HarishB301/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HarishB301/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/HarishB301/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarishB301/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/HarishB301/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/HarishB301/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarishB301/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/HarishB301/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/HarishB301/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HarishB301/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarishB301/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/HarishB301/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/HarishB301/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarishB301/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarishB301/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
