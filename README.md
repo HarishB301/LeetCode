@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarishB301/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1695-maximum-erasure-value](https://github.com/HarishB301/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/HarishB301/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1901-find-a-peak-element-ii](https://github.com/HarishB301/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarishB301/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarishB301/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/HarishB301/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HarishB301/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarishB301/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/HarishB301/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HarishB301/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarishB301/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/HarishB301/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1277-count-square-submatrices-with-all-ones](https://github.com/HarishB301/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HarishB301/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/HarishB301/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/HarishB301/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2643-row-with-maximum-ones](https://github.com/HarishB301/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HarishB301/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
