@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/HarishB301/LeetCode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarishB301/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HarishB301/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/HarishB301/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HarishB301/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HarishB301/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HarishB301/LeetCode/tree/master/0200-number-of-islands) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarishB301/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarishB301/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HarishB301/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/HarishB301/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HarishB301/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/HarishB301/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/HarishB301/LeetCode/tree/master/0300-longest-increasing-subsequence) |
