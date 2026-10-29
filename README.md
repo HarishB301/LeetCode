@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/HarishB301/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/HarishB301/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/HarishB301/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarishB301/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HarishB301/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HarishB301/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HarishB301/LeetCode/tree/master/0312-burst-balloons) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarishB301/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarishB301/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HarishB301/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarishB301/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/HarishB301/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/HarishB301/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HarishB301/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/HarishB301/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarishB301/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/HarishB301/LeetCode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarishB301/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/HarishB301/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/HarishB301/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HarishB301/LeetCode/tree/master/0695-max-area-of-island) |
@@ -720,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0278-first-bad-version](https://github.com/HarishB301/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarishB301/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarishB301/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
