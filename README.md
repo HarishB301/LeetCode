@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarishB301/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HarishB301/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/HarishB301/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2951-find-the-peaks](https://github.com/HarishB301/LeetCode/tree/master/2951-find-the-peaks) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HarishB301/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HarishB301/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/HarishB301/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [2951-find-the-peaks](https://github.com/HarishB301/LeetCode/tree/master/2951-find-the-peaks) |
 ## Binary Indexed Tree
 |  |
 | ------- |
