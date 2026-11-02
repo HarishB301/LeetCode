@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarishB301/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1695-maximum-erasure-value](https://github.com/HarishB301/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/HarishB301/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/HarishB301/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/HarishB301/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HarishB301/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarishB301/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarishB301/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HarishB301/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarishB301/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/HarishB301/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
